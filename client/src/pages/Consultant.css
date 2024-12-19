@@ -1,21 +1,16 @@
-/* HomePage CSS */
-.home-page {
+/* Consultant CSS */
+.consultant {
   text-align: center;
   padding: 50px;
   background-color: #f4f4f4;
 }
 
-.home-page h2 {
+.consultant h2 {
   font-size: 2rem;
   color: #111;
 }
 
-.home-page p {
-  font-size: 1.2rem;
-  color: #555;
-}
-
-.home-page .btn-primary {
+.consultant .btn-primary {
   padding: 10px 20px;
   background-color: #007aff;
   color: white;
@@ -24,6 +19,6 @@
   border-radius: 5px;
 }
 
-.home-page .btn-primary:hover {
+.consultant .btn-primary:hover {
   background-color: #005bb5;
 }

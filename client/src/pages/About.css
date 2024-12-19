@@ -1,0 +1,16 @@
+/* About CSS */
+.about {
+  text-align: center;
+  padding: 50px;
+  background-color: #fafafa;
+}
+
+.about h2 {
+  font-size: 2rem;
+  color: #111;
+}
+
+.about p {
+  font-size: 1.2rem;
+  color: #555;
+}

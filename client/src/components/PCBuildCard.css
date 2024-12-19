@@ -1,0 +1,44 @@
+/* PCBuildCard CSS */
+.pc-build-card {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 20px;
+    text-align: center;
+    width: 200px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease;
+}
+
+.pc-build-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+}
+
+.pc-build-card h3 {
+    font-size: 1.5rem;
+    color: #111;
+}
+
+.pc-build-card p {
+    font-size: 1rem;
+    color: #555;
+}
+
+.pc-build-card .btn-secondary {
+    padding: 8px 16px;
+    background-color: #28a745;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+.pc-build-card .btn-secondary:hover {
+    background-color: #218838;
+}
+
+.pc-build-card .btn-secondary:active {
+    background-color: #1e7e34;
+}
